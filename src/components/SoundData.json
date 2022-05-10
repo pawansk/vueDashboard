@@ -1,0 +1,18 @@
+ [{
+         "id": 1,
+         "title": "Wowwwwww",
+         "artist": "Post Malone",
+         "album": "",
+         "url": "https://www.learningcontainer.com/wp-content/uploads/2020/02/Kalimba.mp3",
+         "cover_art_url": "https://cdn.pixabay.com/photo/2021/08/25/20/42/field-6574455__340.jpg"
+     },
+     {
+         "id": 2,
+         "title": "Better Now",
+         "artist": "Post Malone",
+         "album": "",
+         "url": "https://res.cloudinary.com/dmf10fesn/video/upload/v1548882769/audio/Post_Malone_-_Better_Now_playvk.com.mp3",
+         "cover_art_url": "https://cdn.pixabay.com/photo/2021/08/25/20/42/field-6574455__340.jpg"
+     }
+
+ ]

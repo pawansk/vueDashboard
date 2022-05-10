@@ -1,0 +1,56 @@
+[{
+        "id": 1,
+        "name": "Dashboardsss",
+        "path": "/"
+    },
+    {
+        "id": 2,
+        "name": "About Us",
+        "path": "/about"
+    },
+    {
+        "id": 3,
+        "name": "profile",
+        "path": "/profile"
+    },
+    {
+        "id": 4,
+        "name": "User Details",
+        "path": "/user"
+    },
+    {
+        "id": 5,
+        "name": "Profile Details",
+        "path": "/"
+    },
+    {
+        "id": 6,
+        "name": "Notification",
+        "path": "/notification"
+    },
+    {
+        "id": 7,
+        "name": "Filter",
+        "path": "/filter"
+    },
+    {
+        "id": 8,
+        "name": "Slider",
+        "path": "/SliderPage"
+    },
+    {
+        "id": 9,
+        "name": "product",
+        "path": "/product"
+    },
+    {
+        "id": 10,
+        "name": "songs",
+        "path": "/songs"
+    },
+    {
+        "id": 11,
+        "name": "Logout",
+        "path": "/"
+    }
+]
